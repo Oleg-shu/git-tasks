@@ -1,3 +1,4 @@
 name: Oleg Shukalov
 profession: driver
 Family status: married
+Wife: Olga
